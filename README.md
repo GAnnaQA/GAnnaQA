@@ -11,6 +11,17 @@
   </a>
   </div>
 
+  ---
+  
+### :woman_technologist: About Me :
+:raised_hand_with_fingers_splayed:Привет! Меня зовут Анна, и я начинающий тестировщик.
+
+:woman_student:Мой путь в тестирование начался с обучения в SkyPro, где я получила базовые знания о методологиях тестирования и основные навыки работы с инструментами тестирования.
+
+:computer:Мой ученический опыт включает тестирование web-приложений, где я активно применяла полученные знания, тестируя функционал и не только, создавая тест-кейсы и оформляя баг-репорты.
+
+---
+
 ### :hammer_and_wrench: Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
