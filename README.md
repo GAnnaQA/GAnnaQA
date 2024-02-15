@@ -1,10 +1,12 @@
 <table>
   <thead>
     <tr>
-      <th>  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" height="350" /> </th>
-      <th> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNrdjBvNWxpOXprY2FmaHBmcnNvMWp1ZXpuMW9oYzU4ZHRqOThodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HVofJOWFXGpDX4xeg1/giphy.gif" width="400" height="250"/> 
+      <th>  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" height="300" /> </th>
+      <th> <div align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNrdjBvNWxpOXprY2FmaHBmcnNvMWp1ZXpuMW9oYzU4ZHRqOThodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HVofJOWFXGpDX4xeg1/giphy.gif" width="400" height="250"/> </div>
+
+-----------------------
         
-<a href="https://career.habr.com/annagruzdevaqa">
+<div align="left"><a href="https://career.habr.com/annagruzdevaqa">
     <img src="https://img.shields.io/badge/Habr-black?style=for-the-badge&logo=Habr&logoColor=white" alt="Habr Badge"/>
   </a>
    <a href="https://t.me/Gruzdeva_A_K">
@@ -12,10 +14,10 @@
   </a>
    <a href="https://hh.ru/resume/8b97088dff0cc002830039ed1f396f446f3379?disableBrowserCache=true&hhtmFrom=resume_list">
     <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=HeadHunter&logoColor=white" alt="HeadHunter Badge"/>
-  </a>
+  </a></div>
 
    
-## :raised_hand_with_fingers_splayed:Привет! Меня зовут Анна, и я начинающий тестировщик.
+<div align="left"> :raised_hand_with_fingers_splayed:Привет! Меня зовут Анна, и я начинающий тестировщик.</div>
 
 </th>
     </tr>
