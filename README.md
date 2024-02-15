@@ -2,7 +2,7 @@
   <thead>
     <tr>
       <th>  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" height="350" /> </th>
-      <th> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJoc3h5enhldGp6MG1lbzlyaGo0N2lheG5tMTdzZ2hmbTJ2b3JsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/nlLIFsrosSd0U3gHso/giphy.gif" width="400" height="250"/> 
+      <th> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNrdjBvNWxpOXprY2FmaHBmcnNvMWp1ZXpuMW9oYzU4ZHRqOThodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HVofJOWFXGpDX4xeg1/giphy.gif" width="400" height="250"/> 
         
 <a href="https://career.habr.com/annagruzdevaqa">
     <img src="https://img.shields.io/badge/Habr-black?style=for-the-badge&logo=Habr&logoColor=white" alt="Habr Badge"/>
