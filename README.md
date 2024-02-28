@@ -39,6 +39,8 @@
   
   [Библиотека](https://github.com/GAnnaQA/Testing-the-library/blob/main/README.md)
 
+  [Dummyapi.io](https://github.com/GAnnaQA/Dummyapi.io/blob/main/README.md)
+
 ---
 
 ### :hammer_and_wrench: Tools :
