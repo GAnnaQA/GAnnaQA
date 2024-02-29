@@ -15,7 +15,6 @@
    <a href="https://hh.ru/resume/8b97088dff0cc002830039ed1f396f446f3379?disableBrowserCache=true&hhtmFrom=resume_list">
     <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=HeadHunter&logoColor=white" alt="HeadHunter Badge"/>
   </a></div>
-
    
 <div align="left"> :raised_hand_with_fingers_splayed:Привет! Меня зовут Анна, и я начинающий тестировщик.</div>
 
@@ -24,7 +23,8 @@
   </thead>
   </table>
 
-  
+<img src="https://komarev.com/ghpvc/?username=GAnnaQA&color=blue"/>  
+
 ### :woman_technologist: About Me :
 
 :woman_student:Мой путь в тестирование начался с обучения в SkyPro, где я получила базовые знания о методологиях тестирования и основные навыки работы с инструментами тестирования.
