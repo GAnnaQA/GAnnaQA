@@ -20,3 +20,47 @@
     </tr>
   </thead>
 </table>
+<img src="https://komarev.com/ghpvc/?username=GAnnaQA&color=blue"/>  
+
+### 🛠 Опыт и навыки:
+* **Manual Testing:** Глубокое понимание жизненного цикла разработки (SDLC) и тестирования (STLC). Проектирование тест-кейсов, чек-листов и работа с требованиями.
+* **API Testing:** Тестирование REST API через Postman и Swagger, валидация ответов и статус-кодов.
+* **Auto Testing (Junior):** Написание поддерживаемых автотестов на Python + Pytest. Использование паттерна Page Object.
+
+---
+
+### 📂 Избранные проекты:
+
+#### 🤖 Automation (Python / Pytest / Selenium)
+* [**Портал преподавателя SkyPro**](https://github.com/GAnnaQA/teacher-portal-SkyPro) — Автоматизация UI-тестов для личного кабинета.
+* [**Dummyapi.io**](https://github.com/GAnnaQA/Dummyapi.io) — Тестирование API-интерфейсов.
+
+#### 📝 Manual Testing (Documentation & Cases)
+* [**Библиотека**](https://github.com/GAnnaQA/Testing-the-library) — Пример глубокого тест-дизайна и функционального тестирования.
+* [**Мобильный университет**](https://github.com/GAnnaQA/University) — Комплексное тестирование функционала.
+
+---
+
+### 🧰 Stack & Tools:
+
+**Languages & Frameworks:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium" />
+</p>
+
+**Testing Tools:**
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="JMeter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
+</div>
+
+**Management:**
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" width="40" height="40"/>
+</div>
